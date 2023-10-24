@@ -1,0 +1,1865 @@
+fileFormatVersion: 2
+guid: 707336364ae8dc844b08cc76d6334988
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 649
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1d7f869f49213408de8a5858817a19
+      internalID: 2088752433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 649
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547f0aaec81ef4c4f8f0c60667f824cf
+      internalID: 637023128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 649
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746c8e85b05a4a74690b2b49fceab0d6
+      internalID: -1800889535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 649
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80afae19f87492c46857c32640350a68
+      internalID: -1414375395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 649
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9ade4b55ae3b44f92031d9e3346dd3
+      internalID: 950620610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_5
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 649
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd47326c81b67543889ccd05970a815
+      internalID: -782597689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_6
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 649
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9226323cf92c849a66b4530b958673
+      internalID: -81562261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_7
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 649
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b400ab468f4ddf4b9c9aaa25cb44411
+      internalID: 331524777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 649
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a747edfeda6b5ff4f8c1cc89bfbeadf7
+      internalID: -1366380649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_9
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 649
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e7a375f8d9bbc428af7a0b4455b628
+      internalID: -264079956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_10
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53615b228b004034496812dda9274a7f
+      internalID: 595068023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_11
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191d88d81909743479ed3bb422078946
+      internalID: -96476051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_12
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170fcd763fadd58448ba8f0c76a8b09c
+      internalID: -1848169427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_13
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d43610fb4263942a782b466095c69b
+      internalID: 409954579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_14
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf3b33b7eeb2ba44a0858c306ff5c8d
+      internalID: -318405412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_15
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883fb0fbb10933f44a1cb7636fc60f9a
+      internalID: 159609505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cc414d7a0b2584c9c99c518c83a0b0
+      internalID: 1958055230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_17
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b594217ab150ba04792aac627526a411
+      internalID: -1970159216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_18
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62bd51b9b5cd4a49a4ea9d2988ffa40
+      internalID: 1636032130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_19
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897803f0aa51ef44da47c7b89d9cce17
+      internalID: 1180505538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 583
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2dcf8c1271b3354eb18e6538b919e87
+      internalID: 419012415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_21
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 583
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3f5accba6d0fa4383c24845fb26ca9
+      internalID: -448495353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_22
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 583
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3e31dc911797a4497ac478dc98e06c
+      internalID: -201299858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_23
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 583
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbb1a4c3bfcc6747b00b182192058f0
+      internalID: -1870391447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_24
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 583
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572bdd7adbf81ab4ea7bd61feb4362a3
+      internalID: -1158978828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_25
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 583
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856d94f640a182b47b3993a37726646f
+      internalID: -2015528376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_26
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 583
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c204b2f8743fa49bde3d1405945acd
+      internalID: 2079066613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_27
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 583
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6c9a44a48c2224f9cd1ff30d95a3c6
+      internalID: -1032569350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_28
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 583
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6046a51b0951f448e25f6a3b15fe04
+      internalID: -939115903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_29
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 583
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c172dea86e45cbe48af61510c29b483f
+      internalID: 1087583118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_30
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 550
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99927394084de9c42966e6d59b388730
+      internalID: -2072579634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_31
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 550
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ea9a7247888374d8eb3bd7b708d387
+      internalID: 1996785577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_32
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 550
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306493ad0c1e622489e801d5ce3941ef
+      internalID: -518529621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_33
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 550
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0625220ce0aaa4142975208184dcaf9e
+      internalID: -1034138628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_34
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 550
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f953d324f322f418b13636f56f27b6
+      internalID: 171542677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_35
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 550
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586558687eba51c419c767eeddaccfb6
+      internalID: -1941315154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_36
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 550
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7588050236cd4db4e883701a431d6ae9
+      internalID: 2004673306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_37
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 550
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2054c0e5c6acc2241ade87a5a6b3a06f
+      internalID: 1969019705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_38
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 550
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8518ccdd38b5e48a55d05633f54307
+      internalID: -1408699572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_39
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 550
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ccc4a7afb23224a8d185101146fd9c
+      internalID: -183477136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 517
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1aa8672a019c042b47add2864f8a9e
+      internalID: 1115584489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_41
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 517
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d62a8bbbb659e640bd9ec62b46c379b
+      internalID: 117081613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_42
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 517
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3501659c7effd4c87951392812e2b1
+      internalID: 850063403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_43
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 517
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c20e508ec48a94abbcee07a191108d
+      internalID: -1901073563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_44
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 517
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534babf9a50cbf84190b43b15eec89dc
+      internalID: -1131826045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_45
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 517
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bb1607570c07d4fac19a6acc6f7634
+      internalID: 2040841267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_46
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 517
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f5ba2409e78ac4ba795a6006156102
+      internalID: 1199633989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_47
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 517
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ff50e9e7acd2b40a8ce0c3836c700c
+      internalID: -1546476172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_48
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 517
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33eadce3771fc1c42b6a642d022a0929
+      internalID: 350275338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_49
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 517
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af49a873eaa62146afed89702aa4ea4
+      internalID: 1577949734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_50
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 484
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ac7e411121ea14ea2fba2fb24e4e4e
+      internalID: -47995654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_51
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 484
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bba619cfdfedb47ae56ed929b30e7e
+      internalID: 490608013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_52
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 484
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5ce8937be8bb549b8fd64a9f2cea37
+      internalID: -1570704525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_53
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 484
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc606abb79fc39e4bb5190fec257eb11
+      internalID: -11764536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_54
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 484
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af51b80c55b380b4d8947e9a980a3411
+      internalID: -1586840905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_55
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 484
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ee2900d97c27a408de13b4188a2ea7
+      internalID: -2015611249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_56
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 484
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d84fb9086dd829488b11d314aa3d8d3
+      internalID: 1282945946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_57
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 484
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30c0ee3b51bb8c4793c310a6af3bbcd
+      internalID: 135752911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_58
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 484
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629bae62accd133458598337ee4e9d05
+      internalID: -660182925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_59
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 484
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb5a64affc60b7479c8ab145e698472
+      internalID: 781564096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 451
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf9b2cb81f0fb647b8595ecb75e5628
+      internalID: -2033895370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_61
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 451
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e85fda438f538499331c04ed129bac
+      internalID: -414683767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_62
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 451
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96a273f21221114bb0c893c6f41bd5e
+      internalID: -947893582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_63
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 451
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c64cf79514d84e43b34c6b1a973efb9
+      internalID: -1412922149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_64
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 451
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e2f93211ef7f6459888255d4ed29da
+      internalID: -991582914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_65
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 451
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34989693cae5ead4583ee66785aedc31
+      internalID: 2113021978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_66
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 451
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970fa947025607644a8593d0e25489a1
+      internalID: -2007873009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_67
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 451
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c88b59fd74c094f9b08d96d9851aa9
+      internalID: -1528474372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_68
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 451
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62c4b100c75dee4d8bde898056f038e
+      internalID: 929038472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_69
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 451
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6514852ad653b574c9b0260e1d84a632
+      internalID: -319542178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_70
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 418
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea6df34ca8b374428b4c4d368bd02d3
+      internalID: -888866669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_71
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 418
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505ff8cbdfd095040a6a74c66a9629fb
+      internalID: 76200730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_72
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 418
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f36cc06df8a4ba469a8d8d8c1063b54
+      internalID: -1394061525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_73
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 418
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad13b25bc4c98e4abaadf541e6ace36
+      internalID: 1509432129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_74
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 418
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fce5dc3c51523549841babc6fc51162
+      internalID: -858168522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_75
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 418
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fddb506b7408948bb7447d35fb46a4
+      internalID: -1259513687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_76
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 418
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9f2533057e8564c944f7c994a900e8
+      internalID: 1127153559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_77
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 418
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b113e3d397a199f4bbd662a0c32c47d7
+      internalID: -260970387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Tilesets_78
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 418
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cafe484241ecde4a9a916ca9dbc71b4
+      internalID: 1687462755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NES - Castlevania - Tilesets_0: 2088752433
+      NES - Castlevania - Tilesets_1: 637023128
+      NES - Castlevania - Tilesets_10: 595068023
+      NES - Castlevania - Tilesets_11: -96476051
+      NES - Castlevania - Tilesets_12: -1848169427
+      NES - Castlevania - Tilesets_13: 409954579
+      NES - Castlevania - Tilesets_14: -318405412
+      NES - Castlevania - Tilesets_15: 159609505
+      NES - Castlevania - Tilesets_16: 1958055230
+      NES - Castlevania - Tilesets_17: -1970159216
+      NES - Castlevania - Tilesets_18: 1636032130
+      NES - Castlevania - Tilesets_19: 1180505538
+      NES - Castlevania - Tilesets_2: -1800889535
+      NES - Castlevania - Tilesets_20: 419012415
+      NES - Castlevania - Tilesets_21: -448495353
+      NES - Castlevania - Tilesets_22: -201299858
+      NES - Castlevania - Tilesets_23: -1870391447
+      NES - Castlevania - Tilesets_24: -1158978828
+      NES - Castlevania - Tilesets_25: -2015528376
+      NES - Castlevania - Tilesets_26: 2079066613
+      NES - Castlevania - Tilesets_27: -1032569350
+      NES - Castlevania - Tilesets_28: -939115903
+      NES - Castlevania - Tilesets_29: 1087583118
+      NES - Castlevania - Tilesets_3: -1414375395
+      NES - Castlevania - Tilesets_30: -2072579634
+      NES - Castlevania - Tilesets_31: 1996785577
+      NES - Castlevania - Tilesets_32: -518529621
+      NES - Castlevania - Tilesets_33: -1034138628
+      NES - Castlevania - Tilesets_34: 171542677
+      NES - Castlevania - Tilesets_35: -1941315154
+      NES - Castlevania - Tilesets_36: 2004673306
+      NES - Castlevania - Tilesets_37: 1969019705
+      NES - Castlevania - Tilesets_38: -1408699572
+      NES - Castlevania - Tilesets_39: -183477136
+      NES - Castlevania - Tilesets_4: 950620610
+      NES - Castlevania - Tilesets_40: 1115584489
+      NES - Castlevania - Tilesets_41: 117081613
+      NES - Castlevania - Tilesets_42: 850063403
+      NES - Castlevania - Tilesets_43: -1901073563
+      NES - Castlevania - Tilesets_44: -1131826045
+      NES - Castlevania - Tilesets_45: 2040841267
+      NES - Castlevania - Tilesets_46: 1199633989
+      NES - Castlevania - Tilesets_47: -1546476172
+      NES - Castlevania - Tilesets_48: 350275338
+      NES - Castlevania - Tilesets_49: 1577949734
+      NES - Castlevania - Tilesets_5: -782597689
+      NES - Castlevania - Tilesets_50: -47995654
+      NES - Castlevania - Tilesets_51: 490608013
+      NES - Castlevania - Tilesets_52: -1570704525
+      NES - Castlevania - Tilesets_53: -11764536
+      NES - Castlevania - Tilesets_54: -1586840905
+      NES - Castlevania - Tilesets_55: -2015611249
+      NES - Castlevania - Tilesets_56: 1282945946
+      NES - Castlevania - Tilesets_57: 135752911
+      NES - Castlevania - Tilesets_58: -660182925
+      NES - Castlevania - Tilesets_59: 781564096
+      NES - Castlevania - Tilesets_6: -81562261
+      NES - Castlevania - Tilesets_60: -2033895370
+      NES - Castlevania - Tilesets_61: -414683767
+      NES - Castlevania - Tilesets_62: -947893582
+      NES - Castlevania - Tilesets_63: -1412922149
+      NES - Castlevania - Tilesets_64: -991582914
+      NES - Castlevania - Tilesets_65: 2113021978
+      NES - Castlevania - Tilesets_66: -2007873009
+      NES - Castlevania - Tilesets_67: -1528474372
+      NES - Castlevania - Tilesets_68: 929038472
+      NES - Castlevania - Tilesets_69: -319542178
+      NES - Castlevania - Tilesets_7: 331524777
+      NES - Castlevania - Tilesets_70: -888866669
+      NES - Castlevania - Tilesets_71: 76200730
+      NES - Castlevania - Tilesets_72: -1394061525
+      NES - Castlevania - Tilesets_73: 1509432129
+      NES - Castlevania - Tilesets_74: -858168522
+      NES - Castlevania - Tilesets_75: -1259513687
+      NES - Castlevania - Tilesets_76: 1127153559
+      NES - Castlevania - Tilesets_77: -260970387
+      NES - Castlevania - Tilesets_78: 1687462755
+      NES - Castlevania - Tilesets_8: -1366380649
+      NES - Castlevania - Tilesets_9: -264079956
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
