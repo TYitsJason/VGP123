@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Whip
+  - Barrier
+  - Enemy Projectile
+  - Enemy
+  - Squish
   layers:
   - Default
   - TransparentFX
@@ -46,4 +51,7 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 1005272799
+    locked: 0
+  - name: Objects
+    uniqueID: 3923511213
     locked: 0

@@ -18,6 +18,43 @@ public class PlayerController : MonoBehaviour
     public Transform groundCheck;
     public LayerMask isGroundLayer;
     public float groundCheckRadius = 0.02f;
+    public enum subweapon
+    {
+        None = 0,
+        Axe = 1,
+        Dagger = 2
+    }
+    public subweapon currentWeapon = subweapon.None;
+
+    private int _lives = 5;
+    public int maxLives = 16;
+    public int lives
+    {
+        get { return _lives; }
+        set
+        {
+            _lives = value;
+            if (_lives > maxLives)
+            {
+                _lives = maxLives;
+            }
+        }
+    }
+
+    private int _score = 0;
+    public int score
+    {
+        get => _score;
+        set
+        {
+            _score-= value;
+        }
+    }
+    public void setSubweapon(subweapon sw)
+    {
+        currentWeapon = sw;
+    }
+
 
     // Start is called before the first frame update
     void Start()
@@ -64,22 +101,51 @@ public class PlayerController : MonoBehaviour
     {
         float hInput = Input.GetAxisRaw("Horizontal");
 
+        AnimatorClipInfo[] curPlayingClips = anim.GetCurrentAnimatorClipInfo(0);
+
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, isGroundLayer);
-        Debug.Log(hInput);
+
+        if (curPlayingClips.Length > 0)
+        {
+            if (curPlayingClips[0].clip.name == "Attack" || curPlayingClips[0].clip.name == "JumpAttack")
+                rb.velocity = new Vector2(0, rb.velocity.y);
+            else
+            {
+                Vector2 moveDirection = new Vector2(hInput * speed, rb.velocity.y);
+                rb.velocity = moveDirection;
+            }
+        }
+
         if (isGrounded && Input.GetButtonDown("Jump"))
         {
             rb.AddForce(Vector2.up * jumpForce);
         }
+
         if (Input.GetButton("Fire1"))
         {
             isAttacking = true;
         }
         else isAttacking = false;
-        Vector2 moveDirection = new Vector2(hInput * speed, rb.velocity.y);
-        rb.velocity = moveDirection;
+
+        /*if (Input.GetButton("Fire2"))
+        {
+            isAttacking = true;
+        }
+        else isAttacking = false;*/
 
         anim.SetFloat("hInput", Mathf.Abs(hInput));
         anim.SetBool("IsGrounded", isGrounded);
         anim.SetBool("IsAttacking", isAttacking);
+
+        if (hInput != 0) sr.flipX = (hInput > 0);
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Squish"))
+        {
+            collision.transform.parent.GetComponent<Enemy>().TakeDamage(9999);
+            rb.AddForce(Vector2.up * jumpForce);
+        }
     }
 }
