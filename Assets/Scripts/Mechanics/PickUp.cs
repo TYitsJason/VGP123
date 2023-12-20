@@ -21,7 +21,7 @@ public class PickUp : MonoBehaviour
             switch (currentPickup)
             {
                 case PickupType.Life:
-                    pc.lives++;
+                    GameManager.Instance.lives++;
                     break;
                 case PickupType.Dagger:
                     pc.setSubweapon(PlayerController.subweapon.Dagger);

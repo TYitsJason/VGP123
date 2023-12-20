@@ -26,30 +26,7 @@ public class PlayerController : MonoBehaviour
     }
     public subweapon currentWeapon = subweapon.None;
 
-    private int _lives = 5;
-    public int maxLives = 16;
-    public int lives
-    {
-        get { return _lives; }
-        set
-        {
-            _lives = value;
-            if (_lives > maxLives)
-            {
-                _lives = maxLives;
-            }
-        }
-    }
-
-    private int _score = 0;
-    public int score
-    {
-        get => _score;
-        set
-        {
-            _score-= value;
-        }
-    }
+    
     public void setSubweapon(subweapon sw)
     {
         currentWeapon = sw;

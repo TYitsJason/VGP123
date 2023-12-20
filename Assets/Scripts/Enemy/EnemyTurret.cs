@@ -9,14 +9,12 @@ public class EnemyTurret : Enemy
     float timeSinceLastFire = 0;
     public bool canFire = false;
     public ActivationRange ar;
-    public Transform tr;
 
     // Start is called before the first frame update
     public override void Start()
     {
         base.Start();
         if (projectileFireRate <= 0) projectileFireRate = 1;
-        tr = GameObject.FindGameObjectsWithTag("Player")[0].transform;
     }
 
     public override void TakeDamage(int damage)
@@ -47,7 +45,7 @@ public class EnemyTurret : Enemy
         }
         if (canFire)
         {
-            if (tr.position.x <= gameObject.transform.position.x) sr.flipX = false; 
+            if (GameManager.Instance.playerInstance.transform.position.x <= gameObject.transform.position.x) sr.flipX = false; 
             else sr.flipX = true;
         }
     }

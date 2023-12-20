@@ -51,4 +51,13 @@ public class EnemyWalker : Enemy
 
         }
     }
+    void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Player"))
+        {
+            GameManager.Instance.lives--;
+            Debug.Log("Hit player");
+            sr.flipX = !sr.flipX;
+        }
+    }
 }
